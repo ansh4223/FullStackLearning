@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(64, 4, 90);
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin:0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1{
+    text-align: center;
+    color: #333;
+    border: 5px solid #bb2bc0;
+    border-radius: 4px;
+}
+
+.media{
+    margin: 20px 0;
+}
+
+audio, video {
+    width: 250px;
+    margin:10px 0;
+    border: 5px solid #e0ac4c;
+    border-radius: 4px;
+}
